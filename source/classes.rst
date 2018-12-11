@@ -81,7 +81,7 @@ Channel
 Cpreiss
 ---------------------------------
 - Brief derived :ref:`Channel` class for Preissman slot geometry
-- Where :ref:`channeltype <cchanneltype>` is one
+- Where :ref:`channeltype <channeltype>` is one
 - Inputa:
 	:ref:`Nin`, :ref:`win`, :ref:`Lin`, :ref:`Min`, and :ref:`a`
 - Attributes:
